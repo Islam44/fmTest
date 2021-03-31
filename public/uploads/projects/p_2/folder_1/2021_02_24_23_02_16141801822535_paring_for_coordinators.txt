@@ -1,0 +1,160 @@
+Issues (22):
+Array
+(
+    [0] => Array
+        (
+            [type] => 1
+            [msg] => attendance errors (teacher is attended no show and student is late)
+            [s_sheet] => /media/ie/ELEMENTARY/islam/migrations_2021/migrations/public/sheets/Students/Heba El Raggal_Students/Ahmad Abd El Khaleq Ibrahim/Active Students/Mohamed Nabawy.xlsx
+            [t_sheet] => /media/ie/ELEMENTARY/islam/migrations_2021/migrations/public/sheets/Teachers Reports/Heba El Raggal_Teachers/Ahmad Abd El Khaleq Ibrahim.xlsx
+            [teacher] => Ahmad Abd El Khaleq Ibrahim
+            [student] => mohamed nabawy
+            [date] => 2021-02-23
+            [t_rows] => Array
+                (
+                    [0] => Array
+                        (
+                            [row] => 7753
+                            [val] => attended no show
+                        )
+
+                )
+
+            [s_rows] => Array
+                (
+                    [0] => Array
+                        (
+                            [row] => 97
+                            [val] => late
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [type] => 1
+            [msg] => attendance errors (teacher is attended no show and student is attended)
+            [s_sheet] => /media/ie/ELEMENTARY/islam/migrations_2021/migrations/public/sheets/Students/Hadeel Mesbah_Students/Asmaa Saeed/Active Students/Fahima Sharmin.xlsx
+            [t_sheet] => /media/ie/ELEMENTARY/islam/migrations_2021/migrations/public/sheets/Teachers Reports/Hadeel Mesbah_Teachers/Asmaa Saeed.xlsx
+            [teacher] => Asmaa Saeed
+            [student] => fahima sharmin
+            [date] => 2021-02-23
+            [t_rows] => Array
+                (
+                    [0] => Array
+                        (
+                            [row] => 6634
+                            [val] => attended no show
+                        )
+
+                )
+
+            [s_rows] => Array
+                (
+                    [0] => Array
+                        (
+                            [row] => 349
+                            [val] => attended
+                        )
+
+                )
+
+        )
+
+    [2] => Array
+        (
+            [type] => 1
+            [msg] => attendance errors (teacher is attended no show and student is attended)
+            [s_sheet] => /media/ie/ELEMENTARY/islam/migrations_2021/migrations/public/sheets/Students/Hadeel Mesbah_Students/Asmaa Saeed/Active Students/Shanjida Sharmin.xlsx
+            [t_sheet] => /media/ie/ELEMENTARY/islam/migrations_2021/migrations/public/sheets/Teachers Reports/Hadeel Mesbah_Teachers/Asmaa Saeed.xlsx
+            [teacher] => Asmaa Saeed
+            [student] => shanjida sharmin
+            [date] => 2021-02-17
+            [t_rows] => Array
+                (
+                    [0] => Array
+                        (
+                            [row] => 6621
+                            [val] => attended no show
+                        )
+
+                )
+
+            [s_rows] => Array
+                (
+                    [0] => Array
+                        (
+                            [row] => 131
+                            [val] => attended
+                        )
+
+                )
+
+        )
+
+    [3] => Array
+        (
+            [type] => 1
+            [msg] => attendance errors (teacher is attended no show and student is attended)
+            [s_sheet] => /media/ie/ELEMENTARY/islam/migrations_2021/migrations/public/sheets/Students/Fatma El Naggar-Students/Heba El Khateeb/Annourania/Farida Tarek Barbary.xlsx
+            [t_sheet] => /media/ie/ELEMENTARY/islam/migrations_2021/migrations/public/sheets/Teachers Reports/Fatma El Naggar-Teachers/Annourania/Heba El Khateeb.xlsx
+            [teacher] => Heba El Khateeb
+            [student] => farida tarek barbary
+            [date] => 2021-02-15
+            [t_rows] => Array
+                (
+                    [0] => Array
+                        (
+                            [row] => 767
+                            [val] => attended no show
+                        )
+
+                )
+
+            [s_rows] => Array
+                (
+                    [0] => Array
+                        (
+                            [row] => 23
+                            [val] => attended
+                        )
+
+                )
+
+        )
+
+    [4] => Array
+        (
+            [type] => 1
+            [msg] => attendance errors (teacher is attended and student is reschedule)
+            [s_sheet] => /media/ie/ELEMENTARY/islam/migrations_2021/migrations/public/sheets/Students/Hadeel Mesbah_Students/Samar Hussain/Active Students/Fatima Senosi.xlsx
+            [t_sheet] => /media/ie/ELEMENTARY/islam/migrations_2021/migrations/public/sheets/Teachers Reports/Mai Kassem_Teachers/Samar Hussain.xlsx
+            [teacher] => Samar Hussain
+            [student] => fatima senosi
+            [date] => 2021-02-14
+            [t_rows] => Array
+                (
+                    [0] => Array
+                        (
+                            [row] => 11606
+                            [val] => attended
+                        )
+
+                )
+
+            [s_rows] => Array
+                (
+                    [0] => Array
+                        (
+                            [row] => 96
+                            [val] => reschedule
+                        )
+
+                )
+
+        )
+
+)
+Total time: 1 seconds

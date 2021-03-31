@@ -1,0 +1,466 @@
+Issues (22):
+Array
+(
+    [0] => Array
+        (
+            [type] => 2
+            [msg] => Single, mismatch#2 (session with date 2021-02-18 doesnot exists in student but exists in teacher)
+            [t_sheet] => /media/ie/ELEMENTARY/islam/migrations_2021/migrations/public/sheets/Teachers Reports/Heba El Raggal_Teachers/Arabic Letters/Ali Kassem.xlsx
+            [s_sheet] => NONE
+            [teacher] => Ali Kassem
+            [student] => mohammad hammad
+            [date] => 2021-02-18
+            [s_rows] => Array
+                (
+                )
+
+            [t_rows] => Array
+                (
+                    [0] => Array
+                        (
+                            [row] => 3
+                            [val] => attended
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [type] => 2
+            [msg] => Single, mismatch#2 (session with date 2021-02-18 doesnot exists in student but exists in teacher)
+            [t_sheet] => /media/ie/ELEMENTARY/islam/migrations_2021/migrations/public/sheets/Teachers Reports/Hadeel Mesbah_Teachers/Asmaa Saeed.xlsx
+            [s_sheet] => NONE
+            [teacher] => Asmaa Saeed
+            [student] => falisha mohamed faizal
+            [date] => 2021-02-18
+            [s_rows] => Array
+                (
+                )
+
+            [t_rows] => Array
+                (
+                    [0] => Array
+                        (
+                            [row] => 6627
+                            [val] => attended
+                        )
+
+                )
+
+        )
+
+    [2] => Array
+        (
+            [type] => 5
+            [msg] => multiple, count mismatch#2 (number of session with date 2021-02-23 in teacher Asmaa Samy not the same in student)
+            [s_count] => 1
+            [t_count] => 2
+            [t_sheet] => /media/ie/ELEMENTARY/islam/migrations_2021/migrations/public/sheets/Teachers Reports/Hadeel Mesbah_Teachers/Arabic Letters/Asmaa Samy.xlsx
+            [s_sheet] => /media/ie/ELEMENTARY/islam/migrations_2021/migrations/public/sheets/Students/Hadeel Mesbah_Students/Asmaa Samy/Jibriel Shah.xlsx
+            [teacher] => Asmaa Samy
+            [student] => jibriel shah
+            [date] => 2021-02-23
+            [s_rows] => Array
+                (
+                    [0] => Array
+                        (
+                            [row] => 58
+                            [val] => attended
+                        )
+
+                )
+
+            [t_rows] => Array
+                (
+                    [0] => Array
+                        (
+                            [row] => 118
+                            [val] => attended
+                        )
+
+                    [1] => Array
+                        (
+                            [row] => 119
+                            [val] => attended
+                        )
+
+                )
+
+        )
+
+    [3] => Array
+        (
+            [type] => 2
+            [msg] => Single, mismatch#2 (session with date 2021-02-20 doesnot exists in student but exists in teacher)
+            [t_sheet] => /media/ie/ELEMENTARY/islam/migrations_2021/migrations/public/sheets/Teachers Reports/Fatma El Naggar-Teachers/Annourania/Heba El Khateeb.xlsx
+            [s_sheet] => NONE
+            [teacher] => Heba El Khateeb
+            [student] => faizal saheed
+            [date] => 2021-02-20
+            [s_rows] => Array
+                (
+                )
+
+            [t_rows] => Array
+                (
+                    [0] => Array
+                        (
+                            [row] => 771
+                            [val] => attended
+                        )
+
+                )
+
+        )
+
+    [4] => Array
+        (
+            [type] => 2
+            [msg] => Single, mismatch#2 (session with date 2021-02-21 doesnot exists in student but exists in teacher)
+            [t_sheet] => /media/ie/ELEMENTARY/islam/migrations_2021/migrations/public/sheets/Teachers Reports/Hadeel Mesbah_Teachers/Mahmoud Badran.xlsx
+            [s_sheet] => NONE
+            [teacher] => Mahmoud Badran
+            [student] => mynul chowdhuri
+            [date] => 2021-02-21
+            [s_rows] => Array
+                (
+                )
+
+            [t_rows] => Array
+                (
+                    [0] => Array
+                        (
+                            [row] => 7125
+                            [val] => attended no show
+                        )
+
+                )
+
+        )
+
+    [5] => Array
+        (
+            [type] => 2
+            [msg] => Single, mismatch#2 (session with date 2021-02-11 doesnot exists in student but exists in teacher)
+            [t_sheet] => /media/ie/ELEMENTARY/islam/migrations_2021/migrations/public/sheets/Teachers Reports/Hadeel Mesbah_Teachers/Mahmoud Badran.xlsx
+            [s_sheet] => NONE
+            [teacher] => Mahmoud Badran
+            [student] => mohammed nadeem mal
+            [date] => 2021-02-11
+            [s_rows] => Array
+                (
+                )
+
+            [t_rows] => Array
+                (
+                    [0] => Array
+                        (
+                            [row] => 7082
+                            [val] => attended
+                        )
+
+                )
+
+        )
+
+    [6] => Array
+        (
+            [type] => 5
+            [msg] => multiple, count mismatch#2 (number of session with date 2021-02-18 in teacher Mahmoud Badran not the same in student)
+            [s_count] => 1
+            [t_count] => 2
+            [t_sheet] => /media/ie/ELEMENTARY/islam/migrations_2021/migrations/public/sheets/Teachers Reports/Hadeel Mesbah_Teachers/Mahmoud Badran.xlsx
+            [s_sheet] => /media/ie/ELEMENTARY/islam/migrations_2021/migrations/public/sheets/Students/Hadeel Mesbah_Students/Mahmoud Badran/Active Students/Active Students/Badrulhisham Jasni.xlsx
+            [teacher] => Mahmoud Badran
+            [student] => badrulhisham jasni
+            [date] => 2021-02-18
+            [s_rows] => Array
+                (
+                    [0] => Array
+                        (
+                            [row] => 597
+                            [val] => attended
+                        )
+
+                )
+
+            [t_rows] => Array
+                (
+                    [0] => Array
+                        (
+                            [row] => 7119
+                            [val] => attended
+                        )
+
+                    [1] => Array
+                        (
+                            [row] => 7120
+                            [val] => attended
+                        )
+
+                )
+
+        )
+
+    [7] => Array
+        (
+            [type] => 5
+            [msg] => multiple, count mismatch#2 (number of session with date 2021-02-10 in teacher Mustafa Bakr not the same in student)
+            [s_count] => 0
+            [t_count] => 2
+            [t_sheet] => /media/ie/ELEMENTARY/islam/migrations_2021/migrations/public/sheets/Teachers Reports/Fatma El Naggar-Teachers/Mustafa Bakr.xlsx
+            [s_sheet] => NONE
+            [teacher] => Mustafa Bakr
+            [student] => salah haggag
+            [date] => 2021-02-10
+            [s_rows] => Array
+                (
+                )
+
+            [t_rows] => Array
+                (
+                    [0] => Array
+                        (
+                            [row] => 175
+                            [val] => attended
+                        )
+
+                    [1] => Array
+                        (
+                            [row] => 192
+                            [val] => attended
+                        )
+
+                )
+
+        )
+
+    [8] => Array
+        (
+            [type] => 2
+            [msg] => Single, mismatch#2 (session with date 2021-02-23 doesnot exists in student but exists in teacher)
+            [t_sheet] => /media/ie/ELEMENTARY/islam/migrations_2021/migrations/public/sheets/Teachers Reports/Mai Kassem_Teachers/Samar Hussain.xlsx
+            [s_sheet] => NONE
+            [teacher] => Samar Hussain
+            [student] => fatima magu
+            [date] => 2021-02-23
+            [s_rows] => Array
+                (
+                )
+
+            [t_rows] => Array
+                (
+                    [0] => Array
+                        (
+                            [row] => 11667
+                            [val] => attended
+                        )
+
+                )
+
+        )
+
+    [9] => Array
+        (
+            [type] => 2
+            [msg] => Single, mismatch#2 (session with date 2021-02-20 doesnot exists in student but exists in teacher)
+            [t_sheet] => /media/ie/ELEMENTARY/islam/migrations_2021/migrations/public/sheets/Teachers Reports/Mai Kassem_Teachers/Samar Hussain.xlsx
+            [s_sheet] => NONE
+            [teacher] => Samar Hussain
+            [student] => hanaa saad zaghloul emara
+            [date] => 2021-02-20
+            [s_rows] => Array
+                (
+                )
+
+            [t_rows] => Array
+                (
+                    [0] => Array
+                        (
+                            [row] => 11643
+                            [val] => attended
+                        )
+
+                )
+
+        )
+
+    [10] => Array
+        (
+            [type] => 2
+            [msg] => Single, mismatch#2 (session with date 2021-02-18 doesnot exists in student but exists in teacher)
+            [t_sheet] => /media/ie/ELEMENTARY/islam/migrations_2021/migrations/public/sheets/Teachers Reports/Mai Kassem_Teachers/Samar Hussain.xlsx
+            [s_sheet] => NONE
+            [teacher] => Samar Hussain
+            [student] => zainab khan
+            [date] => 2021-02-18
+            [s_rows] => Array
+                (
+                )
+
+            [t_rows] => Array
+                (
+                    [0] => Array
+                        (
+                            [row] => 11640
+                            [val] => attended
+                        )
+
+                )
+
+        )
+
+    [11] => Array
+        (
+            [type] => 2
+            [msg] => Single, mismatch#2 (session with date 2021-02-20 doesnot exists in student but exists in teacher)
+            [t_sheet] => /media/ie/ELEMENTARY/islam/migrations_2021/migrations/public/sheets/Teachers Reports/Hadeel Mesbah_Teachers/Sara Abo Setta.xlsx
+            [s_sheet] => NONE
+            [teacher] => Sara Abo Setta
+            [student] => maryam ali
+            [date] => 2021-02-20
+            [s_rows] => Array
+                (
+                )
+
+            [t_rows] => Array
+                (
+                    [0] => Array
+                        (
+                            [row] => 29
+                            [val] => attended
+                        )
+
+                )
+
+        )
+
+    [12] => Array
+        (
+            [type] => 2
+            [msg] => Single, mismatch#2 (session with date 2021-02-21 doesnot exists in student but exists in teacher)
+            [t_sheet] => /media/ie/ELEMENTARY/islam/migrations_2021/migrations/public/sheets/Teachers Reports/Hadeel Mesbah_Teachers/Sara Abo Setta.xlsx
+            [s_sheet] => NONE
+            [teacher] => Sara Abo Setta
+            [student] => maryam ali
+            [date] => 2021-02-21
+            [s_rows] => Array
+                (
+                )
+
+            [t_rows] => Array
+                (
+                    [0] => Array
+                        (
+                            [row] => 32
+                            [val] => attended
+                        )
+
+                )
+
+        )
+
+    [13] => Array
+        (
+            [type] => 2
+            [msg] => Single, mismatch#2 (session with date 2021-02-22 doesnot exists in student but exists in teacher)
+            [t_sheet] => /media/ie/ELEMENTARY/islam/migrations_2021/migrations/public/sheets/Teachers Reports/Fatma El Naggar-Teachers/Shaimaa El Kordy.xlsx
+            [s_sheet] => NONE
+            [teacher] => Shaimaa El Kordy
+            [student] => aamena asghar
+            [date] => 2021-02-22
+            [s_rows] => Array
+                (
+                )
+
+            [t_rows] => Array
+                (
+                    [0] => Array
+                        (
+                            [row] => 6965
+                            [val] => attended
+                        )
+
+                )
+
+        )
+
+    [14] => Array
+        (
+            [type] => 2
+            [msg] => Single, mismatch#2 (session with date 2021-02-14 doesnot exists in student but exists in teacher)
+            [t_sheet] => /media/ie/ELEMENTARY/islam/migrations_2021/migrations/public/sheets/Teachers Reports/Heba El Raggal_Teachers/Arabic/Sondos Hassan.xlsx
+            [s_sheet] => NONE
+            [teacher] => Sondos Hassan
+            [student] => hannah ashraf
+            [date] => 2021-02-14
+            [s_rows] => Array
+                (
+                )
+
+            [t_rows] => Array
+                (
+                    [0] => Array
+                        (
+                            [row] => 209
+                            [val] => attended
+                        )
+
+                )
+
+        )
+
+    [15] => Array
+        (
+            [type] => 2
+            [msg] => Single, mismatch#2 (session with date 2021-02-21 doesnot exists in student but exists in teacher)
+            [t_sheet] => /media/ie/ELEMENTARY/islam/migrations_2021/migrations/public/sheets/Teachers Reports/Mai Kassem_Teachers/Umm Omar.xlsx
+            [s_sheet] => NONE
+            [teacher] => Umm Omar
+            [student] => aisha abdullahi
+            [date] => 2021-02-21
+            [s_rows] => Array
+                (
+                )
+
+            [t_rows] => Array
+                (
+                    [0] => Array
+                        (
+                            [row] => 7774
+                            [val] => attended
+                        )
+
+                )
+
+        )
+
+    [16] => Array
+        (
+            [type] => 2
+            [msg] => Single, mismatch#2 (session with date 2021-02-20 doesnot exists in student but exists in teacher)
+            [t_sheet] => /media/ie/ELEMENTARY/islam/migrations_2021/migrations/public/sheets/Teachers Reports/Mai Kassem_Teachers/Umm Omar.xlsx
+            [s_sheet] => NONE
+            [teacher] => Umm Omar
+            [student] => aisha abdullahi
+            [date] => 2021-02-20
+            [s_rows] => Array
+                (
+                )
+
+            [t_rows] => Array
+                (
+                    [0] => Array
+                        (
+                            [row] => 7769
+                            [val] => attended
+                        )
+
+                )
+
+        )
+
+)
+Total time: 1 seconds
